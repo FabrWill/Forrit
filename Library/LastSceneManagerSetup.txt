@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/Execu\xE7\xE3o.unity"
+  isLoaded: 1
+  isActive: 1
