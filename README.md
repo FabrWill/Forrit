@@ -11,7 +11,7 @@ Aqui há um exemplo
 
 # Versão 0.1
 
-![github-small](Expose/Professor sprite.png)
+![github-small](Expose/Professor%20sprite.png)
 
 ![github-small](Expose/Robotink.png)
 
